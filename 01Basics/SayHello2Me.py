@@ -3,5 +3,12 @@
 
 print("Hy - I am Python")
 
+i = 0
+j = 10
+
+while i < y:
+    print(str(i + y), end="")
+    i+= 1
+    
 print("Testing me - testing you ....")
 
